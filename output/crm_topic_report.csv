@@ -1,0 +1,6 @@
+customer_id,customer_name,email_count,topic_summary
+C001,Ava Patel,3,"delivery (4), order (4), arrived (2), damaged (2), date (2)"
+C002,Noah Kim,2,"package (3), tracking (2), update (2), arrived (1), changed (1)"
+C003,Mia Chen,3,"billing (4), charge (4), invoice (4), please (3), refund (3)"
+C004,Liam Garcia,2,"refund (4), returned (3), item (2), payment (2), account (1)"
+C005,Isla Brown,2,"account (3), help (2), password (2), sign (2), access (1)"

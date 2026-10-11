@@ -1,0 +1,13 @@
+email_id,customer_id,customer_name,received_at,cleaned_text,keywords
+E001,C001,Ava Patel,2026-09-02,delayed order delivery my order is late and the tracking page has not updated please confirm the delivery date,"delivery (2), order (2), confirm (1), date (1), delayed (1)"
+E002,C002,Noah Kim,2026-09-03,package not delivered the package was due yesterday but has not arrived tracking still shows it in transit,"package (2), arrived (1), delivered (1), due (1), shows (1)"
+E003,C001,Ava Patel,2026-09-05,delivery status request i still have not received my order could you check the shipment and expected delivery date,"delivery (2), check (1), could (1), date (1), expected (1)"
+E004,C003,Mia Chen,2026-09-06,unexpected charge i see an extra charge on my invoice please explain the billing amount and issue a refund if it is incorrect,"charge (2), amount (1), billing (1), explain (1), extra (1)"
+E005,C004,Liam Garcia,2026-09-07,refund for returned item i returned the item last week but have not received my refund please check the payment status,"item (2), refund (2), returned (2), check (1), last (1)"
+E006,C003,Mia Chen,2026-09-09,invoice correction the invoice includes a duplicate charge please correct the billing statement and confirm the refund,"invoice (2), billing (1), charge (1), confirm (1), correct (1)"
+E007,C005,Isla Brown,2026-09-10,unable to sign in i cannot log in to my account after resetting my password the verification code never arrives,"account (1), arrives (1), cannot (1), code (1), log (1)"
+E008,C005,Isla Brown,2026-09-12,account access help my account is locked and the password reset email has not arrived please help me sign in,"account (2), help (2), access (1), arrived (1), email (1)"
+E009,C002,Noah Kim,2026-09-13,missing shipment update the delivery tracking has not changed for three days please locate the package and update me,"update (2), changed (1), days (1), delivery (1), locate (1)"
+E010,C004,Liam Garcia,2026-09-15,refund follow up i am following up on my refund for the returned product the payment has not appeared in my account,"refund (2), account (1), appeared (1), follow (1), following (1)"
+E011,C001,Ava Patel,2026-09-17,order arrived damaged the package arrived late and the product is damaged please arrange a replacement and advise on return shipping,"arrived (2), damaged (2), advise (1), arrange (1), late (1)"
+E012,C003,Mia Chen,2026-09-19,billing payment question i paid the invoice twice by mistake please review the payment and refund the duplicate billing charge,"billing (2), payment (2), charge (1), duplicate (1), invoice (1)"

@@ -1,0 +1,13 @@
+email_id,customer_id,customer_name,subject,body,received_at
+E001,C001,Ava Patel,Delayed order delivery,"My order is late and the tracking page has not updated. Please confirm the delivery date.",2026-09-02
+E002,C002,Noah Kim,Package not delivered,"The package was due yesterday but has not arrived. Tracking still shows it in transit.",2026-09-03
+E003,C001,Ava Patel,Delivery status request,"I still have not received my order. Could you check the shipment and expected delivery date?",2026-09-05
+E004,C003,Mia Chen,Unexpected charge,"I see an extra charge on my invoice. Please explain the billing amount and issue a refund if it is incorrect.",2026-09-06
+E005,C004,Liam Garcia,Refund for returned item,"I returned the item last week but have not received my refund. Please check the payment status.",2026-09-07
+E006,C003,Mia Chen,Invoice correction,"The invoice includes a duplicate charge. Please correct the billing statement and confirm the refund.",2026-09-09
+E007,C005,Isla Brown,Unable to sign in,"I cannot log in to my account after resetting my password. The verification code never arrives.",2026-09-10
+E008,C005,Isla Brown,Account access help,"My account is locked and the password reset email has not arrived. Please help me sign in.",2026-09-12
+E009,C002,Noah Kim,Missing shipment update,"The delivery tracking has not changed for three days. Please locate the package and update me.",2026-09-13
+E010,C004,Liam Garcia,Refund follow-up,"I am following up on my refund for the returned product. The payment has not appeared in my account.",2026-09-15
+E011,C001,Ava Patel,Order arrived damaged,"The package arrived late and the product is damaged. Please arrange a replacement and advise on return shipping.",2026-09-17
+E012,C003,Mia Chen,Billing payment question,"I paid the invoice twice by mistake. Please review the payment and refund the duplicate billing charge.",2026-09-19
